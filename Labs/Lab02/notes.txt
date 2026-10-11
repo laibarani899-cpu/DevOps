@@ -1,0 +1,5 @@
+Adding some test notes
+Second update: practicing Git commits.
+Database connection branch practice.
+Feature improvement completed for DevOps Lab 2.
+laibarani234 - Fun fact: I enjoy exploring new technology.
